@@ -30,4 +30,11 @@
 
 **Thoughts:** So decided to give a try to the blog idea from Dribble site for the mobile first site. It was the simple blog idea and I read it from the freecodecamp blog for giving it a try just to test the current skill level. And I had to say it was tough getting it all back. But will work on, this is a process will definetly gonna catch the train. Lol. Got pretty good repsonse from community over twitter. Offtopic- And I don't know but Edie Murphy - Party All the Time sounds good while coding idk why ? ! lol 
 
-**Link to work:** [Dashboard](https://impranay.github.io/Dribbble-shot)
+**Link to work:** [Dashboard](https://impranay.github.io/Dribbble-shotet
+### Day 4: December 9th, 2017 (
+
+**Today's Progress**: Built a dashboard wireframe for a stealth AI startup and will submit them for review. **(Added New Modules)+(Made it Responsive)
+
+**Thoughts:** So making it repsonsive was not that tough as I thought it was to be. And utlimately all it takes to read the semantic UI documents. Added stackable property to the div and done. Though I tried to invovle angular this time in the frontend so that I can get the routing between the tabs. Will hopeful do it in the office by the free time. I'm really wanted to see Angular+Semantic work together.
+
+**Link to work:** [Dashboard](https://impranay.github.io/test-dashboard/)
